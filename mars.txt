@@ -2,4 +2,9 @@ Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidit
 Venus is considered a base
+<<<<<<< HEAD
 We removed the conflict on this line 
+=======
+We removed the conflict on this line
+This line added by Lex
+>>>>>>> e64e802386b5913f263be16a90d37cc883b3481f
